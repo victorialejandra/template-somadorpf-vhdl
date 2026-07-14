@@ -3,7 +3,9 @@
 # Tutorial: Implementação de Somador Ponto Flutuante na DE10-Lite
 
 **Autores:** [Nome do Aluno 1], [Nome do Aluno 2], , [Nome do Aluno 3]
+
 **Disciplina:** Sistemas Digitais Q2.20026
+
 **Data:** [Data da entrega]
 
 ---
