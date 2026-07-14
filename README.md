@@ -35,10 +35,10 @@ Utilizamos o [ChatGPT/Claude/Gemini] para auxiliar na geração do Testbench e n
 
 ## 4. Evidências de Validação
 
-### Simulação no Questa
-Abaixo, a imagem do funcionamento do 4º estágio (normalização).
+### Simulação 
+Abaixo, a imagem do funcionamento do 4º estágio (normalização). Considerar os 4 casos detalhados.
 
-![Print da Tela do Questa com as Formas de Onda](link-da-imagem-aqui.jpg)
+![Print das Telas do Simulador com as Formas de Onda](link-da-imagem-aqui.jpg)
 
 ### Código VHDL Final 
 ```vhdl
