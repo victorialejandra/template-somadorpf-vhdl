@@ -40,7 +40,8 @@ Abaixo, a imagem do funcionamento do 4º estágio (normalização).
 
 ### Código VHDL Final 
 ```vhdl
--- Insira aqui o trecho de código mais importante da sua adaptação
+-- Insira aqui o VHDL final e faça ênfase nos trechos de código mais importantes da sua adaptação, isto é, eles devem estar claramente identificados.
+```
 
 ### Funcionamento na Placa
 Abaixo, imagens do funcionamento na Placa para 4 casos.
