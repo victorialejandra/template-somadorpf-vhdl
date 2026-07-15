@@ -47,7 +47,7 @@ Abaixo, a imagem do funcionamento do 4º estágio (normalização). Considerar o
 Abaixo, imagens do funcionamento na Placa para 4 casos.
 
 *Etapa 4 (considerando qeu a Etapa 4 considera toda a documentação em si)*
-## 4. Diário de Bordo de IA 
+## 5. Diário de Bordo de IA 
 Utilizamos o [ChatGPT/Claude/Gemini] para auxiliar na geração do Testbench e na refatoração do código. Abaixo está a análise crítica do uso da ferramenta.
 
 **Prompts Utilizados:**
