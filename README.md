@@ -59,4 +59,8 @@ Utilizamos o [ChatGPT/Claude/Gemini] para auxiliar na geração do Testbench e n
 **A Correção Humana:**
 > Como você corrigiu o código gerado para que ele funcionasse na nossa placa e na simulação.
 
-
+## 6. Contribuição dos participantes
+Utilize a taxonomia CRediT, seguem exemplos:
+ * [Nome do Aluno 1], Administração do Projeto, Desenvolvimento, implementação e teste de software, Análise Formal
+ * [Nome do Aluno 2], Validação de dados e experimentos
+ * [Nome do Aluno 3], Redação do manuscrito original, Validação de dados e experimentos
